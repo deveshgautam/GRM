@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Genie RM</string>
+    <string name="module_name_orders">Orders</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="drawer_array">
+        <item>Orders</item>
+        <item>Reservations/Waitlist</item>
+        <item>Reports</item>
+        <item>Menu</item>
+        <item>Deals</item>
+        <item>Profile</item>
+   	</string-array>
+   	<string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_filter">Filter</string>
+    
+
+</resources>
